@@ -13,6 +13,10 @@ O menu lateral oferece quatro páginas e um filtro global por ano, com a opção
 | Lojas e Região | Quantidade de lojas e regiões, região líder em vendas, maior ticket regional, vendas e faturamento por região e tabela das dez lojas com maior faturamento. |
 | Perfil dos Compradores | Quantidade de vendas analisadas, ticket médio, faixa de renda mais frequente, distribuição por gênero, ticket médio por gênero e distribuição por faixa de renda. |
 
+## Acesse o dashboard
+
+[Abrir o dashboard de vendas de veículos] (https://eo57z8hlf3dyappe9659lt.streamlit.app/clientes)
+
 ## Dependências
 
 - Python **3.12 ou superior**. O ambiente local original foi criado com Python 3.14.3.
