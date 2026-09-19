@@ -104,7 +104,7 @@ fig_fat_marcas.update_layout(
             yaxis= dict(title=None)
         )
 fig_fat_marcas.update_traces(
-    texttemplate='R$ %{text:,.2f}',
+    texttemplate='U$$ %{text:,.2f}',
     textposition='outside'
 )
 

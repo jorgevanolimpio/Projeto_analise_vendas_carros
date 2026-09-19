@@ -136,7 +136,7 @@ fig_cor = px.bar(
             tipo_cor,
             x='color',
             y='car_id',
-            title='Cor',
+            title='Vendas por Cor',
             text='car_id'
         )
 fig_cor.update_layout(
